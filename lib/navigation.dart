@@ -1,8 +1,9 @@
+// navigation.dart
 import 'package:flutter/material.dart';
-import 'package:stockage_app/chat.dart';
-import 'package:stockage_app/classe.dart';
-import 'package:stockage_app/home.dart';
-import 'package:stockage_app/tache.dart';
+import 'package:stockage_app/screens/chat.dart';
+import 'package:stockage_app/screens/classe.dart';
+import 'package:stockage_app/screens/home.dart';
+import 'package:stockage_app/screens/tache.dart';
 
 class MyNavigation extends StatefulWidget {
   const MyNavigation({super.key});
