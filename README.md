@@ -36,6 +36,15 @@ Git & GitHub : pour la gestion de version
 - Promouvoir l’autonomie et l’organisation
 
  ##  Auteur
+Regina734
+
+- UI/UX Designer & Développeuse Flutter
+- Projet réalisé dans le cadre d’un projet éducatif / personnel
+- “L’éducation devient plus simple quand la technologie est bien utilisée.”
+
+ ##   Design
+
+Le design de ClasseMake a été conçu sous Figma, dans un style épuré et moderne, favorisant la lisibilité et la simplicité d’usage.
 
 #### Regina734
 
@@ -46,25 +55,21 @@ Git & GitHub : pour la gestion de version
 
 1. Cloner le dépôt
 ``` bash
-git@github.com:Regina734/class-make.dart.git
+git@github.com:Regina734/Class-make.git
 ```
 
-2. Installer les dependences
+2. Aller dans le dossier 
+``` bash
+cd class-make
+
+3. Installer les dependences
 ``` bash
 flutter pub get
 ```
-3. Démarrer le serveur de développement
+4. Lancer l’application
 ``` bash
-
-
-Installer les dépendances
-
-flutter pub get
-
-
-Lancer l’application
-
 flutter run
+
 
 
 
