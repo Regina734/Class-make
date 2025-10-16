@@ -39,14 +39,14 @@ Git & GitHub : pour la gestion de version
 
 #### Regina734
 
-- Github: https://github.com/Regina734/flutter1.dart
+- Github: https://github.com/Regina734/Class-make
   
         
 ## Installation et Lancement du Projet
 
 1. Cloner le dépôt
 ``` bash
-git@github.com:Regina734/flutter1dunu.dart.git
+git@github.com:Regina734/class-make.dart.git
 ```
 
 2. Installer les dependences
@@ -65,6 +65,7 @@ flutter pub get
 Lancer l’application
 
 flutter run
+
 
 
 
